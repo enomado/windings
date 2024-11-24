@@ -1,8 +1,3 @@
-//! Cycle the screen brightness through 5 predefined brightness levels when the "DVD" logo hits one
-//! of the sides of the display.
-//!
-//! For best results, run with the `--release` flag.
-
 #![allow(unused)]
 #![no_std]
 #![no_main]
