@@ -10,4 +10,9 @@ It have quadrature input, so counting in both directions allowed will work.
 # run
 Runs on cheap stm32 programmator and "blue pill" from aliexpress.
 
+https://app.cirkitdesigner.com/project/313b2b6d-25d9-41d3-8ceb-3a537f561505
+
+![image](https://github.com/user-attachments/assets/bd0143f7-20f6-412d-9c09-836ecd186f2e)
+
+
     cargo run
